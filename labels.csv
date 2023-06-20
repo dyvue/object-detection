@@ -1,0 +1,92 @@
+ID;OBJECT (PAPER);OBJECT (2014 REL.);OBJECT (2017 REL.);SUPER CATEGORY
+1;orang;orang;orang;orang
+2;sepeda;sepeda;sepeda;kendaraan
+3;mobil;mobil;mobil;kendaraan
+4;sepeda motor;sepeda motor;sepeda motor;kendaraan
+5;pesawat;pesawat;pesawat;kendaraan
+6;bus;bus;bus;kendaraan
+7;kereta;kereta;kereta;kendaraan
+8;truk;truk;truk;kendaraan
+9;perahu;perahu;perahu;kendaraan
+10;lampu lalu lintas;lampu lalu lintas;lampu lalu lintas;luar ruangan
+11;hydrant api;hydrant api;hydrant api;luar ruangan
+12;tanda jalan;-;-;luar ruangan
+13;tanda berhenti;tanda berhenti;tanda berhenti;luar ruangan
+14;pembayaran parkir;pembayaran parkir;pembayaran parkir;luar ruangan
+15;bangku;bangku;bangku;luar ruangan
+16;burung;burung;burung;hewan
+17;kucing;kucing;kucing;hewan
+18;anjing;anjing;anjing;hewan
+19;kuda;kuda;kuda;hewan
+20;domba;domba;domba;hewan
+21;sapi;sapi;sapi;hewan
+22;gajah;gajah;gajah;hewan
+23;beruang;beruang;beruang;hewan
+24;zebra;zebra;zebra;hewan
+25;jerapah;jerapah;jerapah;hewan
+26;topi;-;-;aksesori
+27;ransel;ransel;ransel;aksesori
+28;payung;payung;payung;aksesori
+29;sepatu;-;-;aksesori
+30;kacamata;-;-;aksesori
+31;tas tangan;tas tangan;tas tangan;aksesori
+32;dasit;dasit;dasit;aksesori
+33;koper;koper;koper;aksesori
+34;frisbee;frisbee;frisbee;olahraga
+35;papan ski;papan ski;papan ski;olahraga
+36;snowboard;snowboard;snowboard;olahraga
+37;bola olahraga;bola olahraga;bola olahraga;olahraga
+38;layang-layang;layang-layang;layang-layang;olahraga
+39;kepala pemukul bisbol;kepala pemukul bisbol;kepala pemukul bisbol;olahraga
+40;sarung tangan bisbol;sarung tangan bisbol;sarung tangan bisbol;olahraga
+41;papan seluncur;papan seluncur;papan seluncur;olahraga
+42;papan selancar;papan selancar;papan selancar;olahraga
+43;raket tenis;raket tenis;raket tenis;olahraga
+44;botol;botol;botol;dapur
+45;piring;-;-;dapur
+46;gelas anggur;gelas anggur;gelas anggur;dapur
+47;gelas;gelas;gelas;dapur
+48;garpu;garpu;garpu;dapur
+49;pisau;pisau;pisau;dapur
+50;sendok;sendok;sendok;dapur
+51;piring;mangkuk;mangkuk;dapur
+52;pisang;pisang;pisang;makanan
+53;apel;apel;apel;makanan
+54;sandwich;sandwich;sandwich;makanan
+55;jeruk;jeruk;jeruk;makanan
+56;brokoli;brokoli;brokoli;makanan
+57;wortel;wortel;wortel;makanan
+58;hot dog;hot dog;hot dog;makanan
+59;pizza;pizza;pizza;makanan
+60;donat;donat;donat;makanan
+61;kue;kue;kue;makanan
+62;kursi;kursi;kursi;perabotan
+63;sofa;sofa;sofa;perabotan
+64;tanaman pot;tanaman pot;tanaman pot;perabotan
+65;tempat tidur;tempat tidur;tempat tidur;perabotan
+66;cermin;-;-;perabotan
+67;meja makan;meja makan;meja makan;perabotan
+68;jendela;-;-;perabotan
+69;meja;-;-;perabotan
+70;kloset;kloset;kloset;perabotan
+71;pintu;-;-;perabotan
+72;televisi;televisi;televisi;elektronik
+73;laptop;laptop;laptop;elektronik
+74;tikus;tikus;tikus;elektronik
+75;pengontrol;pengontrol;pengontrol;elektronik
+76;papan tik;papan tik;papan tik;elektronik
+77;ponsel;ponsel;ponsel;elektronik
+78;microwave;microwave;microwave;peralatan
+79;oven;oven;oven;peralatan
+80;tosting;tosting;tosting;peralatan
+81;wastafel;wastafel;wastafel;peralatan
+82;kulkas;kulkas;kulkas;peralatan
+83;blender;-;-;peralatan
+84;buku;buku;buku;di dalam ruangan
+85;jam;jam;jam;di dalam ruangan
+86;vas;vas;vas;di dalam ruangan
+87;gunting;gunting;gunting;di dalam ruangan
+88;beruang teddy;beruang teddy;beruang teddy;di dalam ruangan
+89;pengering rambut;pengering rambut;pengering rambut;di dalam ruangan
+90;sikat gigi;sikat gigi;sikat gigi;di dalam ruangan
+91;sisir rambut;-;-;di dalam ruangan
