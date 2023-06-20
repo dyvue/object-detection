@@ -9,3 +9,7 @@ Implementation object detection with tensorflow, ONLY USED FOR COLLEGE TASK PURP
 - matplotlib
 - pandas
 - numpy
+
+## Results
+
+![alt text](image-result.jpg)
